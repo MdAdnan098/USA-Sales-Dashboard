@@ -24,13 +24,14 @@ The sales by state map provides a geographical view of sales performance across 
 4. Unveiling Sales Composition:
 A Category-Wise Breakdown-
 
-* Sales by Sub-Category :
+![* Sales by Sub-Category :
 Our donut chart, titled “Sales by Sub-Category,” offers a compelling visualization of how total sales are distributed across various sub-categories within our product portfolio. This allows us to identify top-performing sub-categories that contribute significantly to overall revenue. It also pinpoints sub-categories with lower sales figures, potentially signifying areas where targeted marketing efforts or product enhancements could lead to growth.
 
 Key Insights:
 
 The chart reveals the distribution of sales across sub-categories, allowing you to pinpoint the top performers. These sub-categories contribute significantly to overall revenue and represent areas of customer preference and strong market demand.
-By focusing on top-selling sub-categories, you can identify opportunities to optimize your product portfolio.
+By focusing on top-selling sub-categories, you can identify opportunities to optimize your product portfolio.]
+(Salesbysubcategory.png)
 
 * Sales by Region:
 Understanding geographical variations in sales performance is crucial for strategic resource allocation. The “Sales by Region” donut chart depicts the breakdown of total sales across different regions within the US. Analyzing regional trends enables us to tailor marketing strategies and allocate resources more effectively.
